@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "express": "^4.17.1",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
